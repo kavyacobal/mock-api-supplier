@@ -115,7 +115,7 @@
     "requestType": 0
   }
   ],
-  completed:[
+  "completed":[
   {
     "onboardingRequest": {
       "accountNo": "56545,45678,56780",
