@@ -114,5 +114,112 @@
     "existingAccountNo": null,
     "requestType": 0
   }
-  ]
+  ],
+  completed:[
+  {
+    "onboardingRequest": {
+      "accountNo": "56545,45678,56780",
+      "businessName": "OTO Development completed2",
+      "supplier": "Reinhart",
+      "dcnNo": "842343",
+      "obRequestStatus": "In-Progress",
+      "createdDate": "18 May 2020",
+      "obrNumber": "10005",
+      "parentCompany": null,
+      "gpoName": "",
+      "phone": "01 413 245-1098 ",
+      "ext": null,
+      "classofTradeDesignation": "Item Four",
+      "classofTradeDescription": "Item Three ",
+      "declineReason": null,
+      "supplierComments": "Descriptive text here Existing ",
+      "existingAccountNo": null,
+      "requestType": 1
+    },
+    "notesAttachments": [
+      {
+        "privateLabel": true,
+        "title": "Note3",
+        "notesBody": "",
+        "attachments": null
+      }
+    ],
+    "onboardingLocationRequest": [
+      {
+        "oblNumber": "OBL-15245 Onboarding Date 09/15/2020 ",
+        "obLocationStatus": "Approved ",
+        "cus": null,
+        "locationName": "Diamond Casino  Las Vegas  OTO  Go Live Date  09/15/2020 ",
+        "address": "5634 Money Ave  Las Vegas  NV 73524",
+        "city": "",
+        "state": "",
+        "zipCode": null,
+        "locationContact1": "Nina Shark, General Mgr  624 342-0987  nina.shark@dimond.com",
+        "locationContact2": null,
+        "supplierComments": null,
+        "missingorWrongInfo": null,
+        "oneSourceCustomer": false,
+        "oneSourceLogin": null,
+        "invoicingType": null,
+        "roomBedTable_Count": null,
+        "isNeworExistingDCN": false,
+        "transitionedtoFoodbuyProgram": null,
+        "jdE_HotelNumber": null,
+        "effectiveDate": null,
+        "estimatedWeeklyPurchases": null,
+        "currentDistributorProvidingService": null
+      },
+      {
+        "obrNumber": null,
+        "oblNumber": "OBL-15245 Onboarding Date 09/15/2020 ",
+        "obLocationStatus": "Pending ",
+        "cus": null,
+        "locationName": "Diamond Casino  Las Vegas  OTO  Go Live Date  09/15/2020 ",
+        "address": "5634 Money Ave  Las Vegas  NV 73524",
+        "city": "",
+        "state": "",
+        "zipCode": null,
+        "locationContact1": "Nina Shark, General Mgr  624 342-0987  nina.shark@dimond.com",
+        "locationContact2": null,
+        "supplierComments": null,
+        "missingorWrongInfo": null,
+        "oneSourceCustomer": false,
+        "oneSourceLogin": null,
+        "invoicingType": null,
+        "roomBedTable_Count": null,
+        "isNeworExistingDCN": false,
+        "transitionedtoFoodbuyProgram": null,
+        "jdE_HotelNumber": null,
+        "effectiveDate": null,
+        "estimatedWeeklyPurchases": null,
+        "currentDistributorProvidingService": null
+      },
+      {
+        "obrNumber": null,
+        "oblNumber": "OBL-15245 Onboarding Date 09/15/2020 ",
+        "obLocationStatus": "Rejected ",
+        "cus": null,
+        "locationName": "Diamond Casino  Las Vegas  OTO  Go Live Date  09/15/2020 ",
+        "address": "5634 Money Ave  Las Vegas  NV 73524",
+        "city": "",
+        "state": "",
+        "zipCode": null,
+        "locationContact1": "Nina Shark, General Mgr  624 342-0987  nina.shark@dimond.com",
+        "locationContact2": null,
+        "supplierComments": null,
+        "missingorWrongInfo": null,
+        "oneSourceCustomer": false,
+        "oneSourceLogin": null,
+        "invoicingType": null,
+        "roomBedTable_Count": null,
+        "isNeworExistingDCN": false,
+        "transitionedtoFoodbuyProgram": null,
+        "jdE_HotelNumber": null,
+        "effectiveDate": null,
+        "estimatedWeeklyPurchases": null,
+        "currentDistributorProvidingService": null
+      }
+    ]
+  }
+]
 }
