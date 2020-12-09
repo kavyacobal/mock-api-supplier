@@ -30,7 +30,6 @@
     ],
     "onboardingLocationRequest": [
       {
-        "obrNumber": null,
         "oblNumber": "OBL-13245 Onboarding Date 09/15/2020 ",
         "obLocationStatus": "Initaited ",
         "cus": null,
