@@ -179,42 +179,6 @@
     "effectiveDate": null,
     "estimatedWeeklyPurchases": null,
     "currentDistributorProvidingService": null
-  },
-  {
-    "accountNo": "22345,45678,56780",
-    "businessName": "Irinox",
-    "supplier": "Limehouse",
-    "dcnNo": "94233",
-    "obRequestStatus": "In Progress",
-    "createdDate": "05/06/2020",
-    "obrNumber": "OBR-14671",
-    "parentCompany": null,
-    "gpoName": null,
-    "phone": null,
-    "ext": null,
-    "classofTradeDesignation": null,
-    "classofTradeDescription": null,
-    "declineReason": null,
-    "supplierComments": null,
-    "existingAccountNo": null,
-    "requestType": "pending",
-    "ssoCredentials": null,
-    "referenceNumber": null,
-    "overrideBilltoAccountNumber": null,
-    "sla": "0001-01-01T00:00:00",
-    "nearingSLA": false,
-    "hasReachedSLA": false,
-    "missingorWrongInfo": null,
-    "oneSourceCustomer": false,
-    "oneSourceLogin": null,
-    "invoicingType": null,
-    "roomBedTable_Count": null,
-    "isNeworExistingDCN": false,
-    "transitionedtoFoodbuyProgram": null,
-    "jdE_HotelNumber": null,
-    "effectiveDate": null,
-    "estimatedWeeklyPurchases": null,
-    "currentDistributorProvidingService": null
   }
 ],
   "pendingTable":[
@@ -276,35 +240,6 @@
     "requestType": 0
   }
   ],
-  "completed":[
-  {
-    "onboardingRequest": {
-      "accountNo": "56545,45678,56780",
-      "businessName": "OTO Development completed2",
-      "supplier": "Reinhart",
-      "dcnNo": "842343",
-      "obRequestStatus": "In-Progress",
-      "createdDate": "18 May 2020",
-      "obrNumber": "10005",
-      "parentCompany": null,
-      "gpoName": "",
-      "phone": "01 413 245-1098 ",
-      "ext": null,
-      "classofTradeDesignation": "Item Four",
-      "classofTradeDescription": "Item Three ",
-      "declineReason": null,
-      "supplierComments": "Descriptive text here Existing ",
-      "existingAccountNo": null,
-      "requestType": 1
-    },
-    "notesAttachments": [
-      {
-        "privateLabel": true,
-        "title": "Note3",
-        "notesBody": "",
-        "attachments": null
-      }
-    ],
     "onboardingLocationRequest": [
       {
         "oblNumber": "OBL-15245 Onboarding Date 09/15/2020 ",
