@@ -185,9 +185,9 @@
   "totalRecords": 6,
   "data":[
     {"parentName":"test","oppoName":"opportunity 1","status":"open"},
-  {"parentName":"test 2","oppoName":"opportunity 2","status":"closed"},
-  {"parentName":"test 3","oppoName":"opportunity 3","status":"open"},{"parentName":"test 4","oppoName":"opportunity 4","status":"closed"},
-  {"parentName":"test 5","oppoName":"opportunity 5","status":"closed"},{"parentName":"test 6","oppoName":"opportunity 6","status":"closed"}
+  {"parentName":"test","oppoName":"opportunity 2","status":"closed"},
+  {"parentName":"test","oppoName":"opportunity 3","status":"open"},{"parentName":"test","oppoName":"opportunity 4","status":"closed"},
+  {"parentName":"test","oppoName":"opportunity 5","status":"closed"},{"parentName":"test","oppoName":"opportunity 6","status":"closed"}
   ]
  }
 }
