@@ -186,7 +186,7 @@
     "closedTotalRecords":4,
   "openData":[
     {"parentName":"test","oppoName":"opportunity 1","status":"open"},
-  {"parentName":"test","oppoName":"opportunity 3","status":"open"},
+  {"parentName":"test","oppoName":"opportunity 3","status":"open"}
   ],
     "closedData":[
       {"parentName":"test","oppoName":"opportunity 2","status":"closed"},
