@@ -182,7 +182,6 @@
   }
 ],
   "multipleOpportunity":{
-  {
   "totalRecords": 1,
   "opportunityList": [
     {
@@ -202,5 +201,4 @@
       "requestedDate": ""
     }
   ]
-}
 }
