@@ -182,16 +182,25 @@
   }
 ],
   "multipleOpportunity":{
-  "openTotalRecords": 2,
-    "closedTotalRecords":4,
-  "openData":[
-    {"parentName":"test","oppoName":"opportunity 1","status":"open"},
-  {"parentName":"test","oppoName":"opportunity 3","status":"open"}
-  ],
-    "closedData":[
-      {"parentName":"test","oppoName":"opportunity 2","status":"closed"},
-      {"parentName":"test","oppoName":"opportunity 4","status":"closed"},
-  {"parentName":"test","oppoName":"opportunity 5","status":"closed"},{"parentName":"test","oppoName":"opportunity 6","status":"closed"}
-    ]
- }
+  {
+  "totalRecords": 1,
+  "opportunityList": [
+    {
+      "parentName": "test",
+      "opportunityName": "Opportunity 1",
+      "status": "open",
+      "locationsAdded": 4,
+      "progamsEnrolled": 4,
+      "requestedDate": ""
+    },
+  {
+      "parentName": "test",
+      "opportunityName": "Opportunity 2",
+      "status": "closed",
+      "locationsAdded": 5,
+      "progamsEnrolled": 2,
+      "requestedDate": ""
+    }
+  ]
+}
 }
