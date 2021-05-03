@@ -187,6 +187,7 @@
     {
       "parentName": "test",
       "opportunityName": "Opportunity 1",
+      "opportunityId":"123456",
       "status": "open",
       "locationsAdded": 4,
       "progamsEnrolled": 4,
@@ -195,6 +196,7 @@
   {
       "parentName": "test",
       "opportunityName": "Opportunity 2",
+      "opportunityId":"567890",
       "status": "closed",
       "locationsAdded": 5,
       "progamsEnrolled": 2,
