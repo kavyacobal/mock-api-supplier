@@ -191,7 +191,28 @@
       "status": "open",
       "locationsAdded": 4,
       "progamsEnrolled": 4,
-      "requestedDate": ""
+      "requestedDate": "",
+      "requestType":"locationsRequest"
+    },
+     {
+      "parentName": "test",
+      "opportunityName": "Opportunity 3",
+      "opportunityId":"333456",
+      "status": "open",
+      "locationsAdded": 1,
+      "progamsEnrolled": 8,
+      "requestedDate": "",
+      "requestType":"programsRequest"
+    },
+     {
+      "parentName": "test",
+      "opportunityName": "Opportunity 4",
+      "opportunityId":"443456",
+      "status": "open",
+      "locationsAdded": 2,
+      "progamsEnrolled": 6,
+      "requestedDate": "",
+      "requestType":"offboardingLocationsRequest"
     },
   {
       "parentName": "test",
