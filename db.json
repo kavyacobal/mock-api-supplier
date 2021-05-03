@@ -221,7 +221,8 @@
       "status": "closed",
       "locationsAdded": 5,
       "progamsEnrolled": 2,
-      "requestedDate": ""
+      "requestedDate": "",
+      "requestType":"locationsRequest"
     }
   ]
  }
