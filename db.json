@@ -310,5 +310,55 @@
 ],
   "getOpportunityId":{
     "responseId":"8989898"
+  },
+  "offboardedLocations":[
+    {
+    "locationId": "12345",
+    "totalRecords": 67,
+    "numberofNewRecordsFromFMP": 7,
+    "locationName": "Ongole",
+    "memberID": "123",
+    "address": "bangalore",
+    "city": "gudipadu",
+    "state": "tamilnadu",
+    "zipCode": "523225",
+    "country": "india",
+    "bldn": "venkareddy",
+    "distCustAccountNo": "1234",
+    "firstName": "venkareddy",
+    "lastName": "lankapothu",
+    "title": "director",
+    "email": "test@test.com",
+    "phoneNumber": "1234",
+    "mainContact": true,
+    "paymentContact": true,
+    "isSameAddress": true,
+    "paymentAddress": "my address",
+    "paymentCity": "ongole",
+    "paymentState": "Alabama",
+    "paymentZipCode": "122222",
+    "paymentCountry": "India",
+    "memberPortalAccess": true,
+    "redAlert": false,
+    "generalCommunication": true,
+    "isConfirmationRequired": false,
+    "isDeleteConfirmationRequired": true,
+    "hierarchyFlag": "8a9d7dc6-d42f-eb11-a813-000d3a5c0e3c",
+    "submitStatus": "Pending",
+    "corporateLocation": true,
+    "apAccount": "12",
+    "effectiveDate": "2021-02-23T09:04:50.883Z",
+    "comments": "string",
+    "approvalId": 0,
+    "dcnData": [
+      {
+        "category": "diry",
+        "dcnNumber": [
+          "123456"
+        ],
+        "distributorName": "venka"
+      }
+    ]
   }
+  ]
 }
