@@ -233,14 +233,16 @@
     "parentLocationAddress": {
       "locationName": "Parent Location",
       "locationId": "123",
-      "street1": null,
-      "street2": null,
-      "fullAddress": "test address",
-      "city": "test city",
-      "state": "parent",
-      "county": null,
-      "zipCode": null,
-      "country": "United States"
+      "locationAddress":{
+         "street1": null,
+        "street2": null,
+        "fullAddress": "test address",
+        "city": "test city",
+        "state": "parent",
+        "county": null,
+        "zipCode": null,
+        "country": "United States"
+      }
     },
     "locations": [
       {
@@ -273,7 +275,8 @@
     "parentLocationAddress": {
       "locationName": "Parent Location",
       "locationId": "123",
-      "street1": null,
+      "locationAddress":{
+         "street1": null,
       "street2": null,
       "fullAddress": "test address",
       "city": "test city",
@@ -281,6 +284,7 @@
       "county": null,
       "zipCode": null,
       "country": "United States"
+      }
     },
     "locations": [
       {
