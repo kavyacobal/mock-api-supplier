@@ -197,7 +197,6 @@
     "parentLocationAddress": {
       "locationName": "Parent Location",
       "locationId": "123",
-      "locationAddress":{
          "street1": null,
         "street2": null,
         "fullAddress": "test address",
@@ -206,7 +205,6 @@
         "county": null,
         "zipCode": null,
         "country": "United States"
-      }
     },
     "locations": [
       {
@@ -239,7 +237,6 @@
     "parentLocationAddress": {
       "locationName": "Parent Location",
       "locationId": "123",
-      "locationAddress":{
          "street1": null,
       "street2": null,
       "fullAddress": "test address",
@@ -248,7 +245,6 @@
       "county": null,
       "zipCode": null,
       "country": "United States"
-      }
     },
     "locations": [
       {
