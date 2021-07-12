@@ -146,7 +146,7 @@
   }
 ],
   "multipleOpportunity":{
-  "totalRecords": 2,
+  "totalRecords": 4,
   "opportunityList": [
     {
       "parentName": "test",
@@ -155,7 +155,7 @@
       "status": "open",
       "locationsAdded": 4,
       "progamsEnrolled": 4,
-      "requestedDate": "",
+      "requestedDate": "2021-06-30",
       "requestType":"locationsRequest",
       "isReadOnly": false
     },
@@ -166,7 +166,7 @@
       "status": "open",
       "locationsAdded": 1,
       "progamsEnrolled": 8,
-      "requestedDate": "",
+      "requestedDate": "2021-06-27",
       "requestType":"programsRequest",
        "isReadOnly": true
     },
@@ -177,7 +177,7 @@
       "status": "open",
       "locationsAdded": 2,
       "progamsEnrolled": 6,
-      "requestedDate": "",
+      "requestedDate": "2021-07-23",
       "requestType":"offboardingLocationsRequest",
        "isReadOnly": false
     },
@@ -188,7 +188,7 @@
       "status": "closed",
       "locationsAdded": 5,
       "progamsEnrolled": 2,
-      "requestedDate": "",
+      "requestedDate": "2021-07-11",
       "requestType":"locationsRequest",
     "isReadOnly": true
     }
