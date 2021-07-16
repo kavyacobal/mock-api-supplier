@@ -201,6 +201,7 @@
     "parentLocationAddress": {
       "locationName": "Parent Location",
       "locationId": "123",
+       "corporateElopRequired": true,
          "street1": null,
         "street2": null,
         "fullAddress": "test address",
@@ -224,13 +225,11 @@
           "zipCode": null,
           "country": "United States"
         },
-        "corporateElopRequired": true,
         "locationSpecificElopRequired": false
       },
       {
         "locationId": "2",
         "locationName": "sample 2",
-        "corporateElopRequired": true,
         "locationSpecificElopRequired": false
       }
     ]
@@ -241,6 +240,7 @@
     "parentLocationAddress": {
       "locationName": "Parent Location",
       "locationId": "123",
+       "corporateElopRequired": true,
          "street1": null,
       "street2": null,
       "fullAddress": "test address",
@@ -264,13 +264,11 @@
           "zipCode": null,
           "country": "United States"
         },
-        "corporateElopRequired": true,
         "locationSpecificElopRequired": false
       },
       {
         "locationId": "4",
         "locationName": "Kavya",
-        "corporateElopRequired": false,
         "locationSpecificElopRequired": false
       }
     ]
