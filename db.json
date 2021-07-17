@@ -1,6 +1,5 @@
 {
   "multipleOpportunity":{
-  {
   "totalRecords": 4,
   "opportunityList": [
     {
@@ -48,7 +47,6 @@
     "isReadOnly": true
     }
   ]
- }
 },
   "elopCorporateTabs":[
   {
