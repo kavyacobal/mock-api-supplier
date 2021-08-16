@@ -197,6 +197,7 @@
 },
   "Getelopforunauthenticateduser":{
   "classofTradeCategory": "Government",
+    "CLVNumber":"8888",
   "classofTradeSubCategory": null,
   "organizationName": "sample",
   "dba": "string",
