@@ -63,6 +63,7 @@
   {
     "programId": "1",
     "programName": "American Hotel",
+    "federalId":"1234",
     "parentLocationAddress": {
       "locationName": "Parent Location",
       "locationId": "123",
@@ -102,6 +103,7 @@
   {
     "programId": "2",
     "programName": "Bandor",
+     "federalId":"1234",
     "parentLocationAddress": {
       "locationName": "Parent Location",
       "locationId": "123",
