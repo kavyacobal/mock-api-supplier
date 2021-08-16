@@ -192,7 +192,8 @@
   }
   ],
   "geturlfordata":{
-  "url": "https://customdomain.sample.comMember-portal/OnboardingElop?elopId=30285ed5-72da-eb11-bacb-000d3a31c31a"
+  "url": "https://customdomain.sample.comMember-portal/OnboardingElop?elopId=30285ed5-72da-eb11-bacb-000d3a31c31a",
+   "ExpiryDateTime" : "2021-09-28T18:30:00Z"
 }
 
 }
