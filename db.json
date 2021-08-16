@@ -194,6 +194,52 @@
   "geturlfordata":{
   "url": "https://customdomain.sample.comMember-portal/OnboardingElop?elopId=30285ed5-72da-eb11-bacb-000d3a31c31a",
    "ExpiryDateTime" : "2021-09-28T18:30:00Z"
+},
+  "Getelopforunauthenticateduser":{
+  "classofTradeCategory": "Government",
+  "classofTradeSubCategory": null,
+  "organizationName": "sample",
+  "dba": "string",
+  "federalId": null,
+  "primaryFullName": "kavya",
+  "contactTitle": "string",
+  "email": null,
+  "phoneNumber": null,
+  "contactAddress": "",
+  "contactCountry": "Egypt",
+  "contactCity": "string",
+  "contactState": null,
+  "contactZip": "string",
+  "isWishSecondaryContact": false,
+  "secContactName": "string",
+  "secContactEmail": null,
+  "secContactPhoneNumber": null,
+  "isWorkWithFoodbuyBDR": true,
+  "listRepresentativeName": "string",
+  "organizationStatement1": true,
+  "organizationStatement2": true,
+  "organizationStatement3": false,
+  "isMastDistriAgreement": true,
+  "servicesAgreementAnswers": "string",
+  "elopLocations": [{
+    "locationId":"090909",
+    "locationName":"Unathenticated Test",
+    "fullAddress":"Test address",
+    "city": "test city",
+    "state":"Delaware",
+    "country":"Egypt"
+    
+  }],
+  "elopDistributors": [
+    {
+      "distributorName": "test"
+    }
+  ],
+  "isAcknowledged": false,
+  "ackApplicantFullName": "string",
+  "ackTitle": "string",
+  "ackDate": "string",
+  "eLOPFormPDF": "string"
 }
 
 }
