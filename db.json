@@ -191,10 +191,16 @@
     ]
   }
   ],
-  "geturlfordata":{
-  "url": "https://customdomain.sample.comMember-portal/OnboardingElop?elopId=30285ed5-72da-eb11-bacb-000d3a31c31a",
-   "expiryDateTime" : "2021-09-28T18:30:00Z"
-},
+  "geturlfordata":[
+  {
+    "url": "/Member-portal/OnboardingElop?user=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6Ijk5Zjk0ZGNhLTY0MzktZWIxMS1hODEzLTAwMGQzYTVjMGUzYyxESVYtQ0xWLTEwMDA4IiwiRXhwaXJ5RHVyYXRpb25pbkRheXMiOjEsImlhdCI6MTYzMzkyMjI2MCwiZXhwIjoxNjM0MDA4NjYwNDc3fQ.MmfOnRJIfWcMujQScMZu3m6umACq0Q9QgFhXOx41yQ89FN7qZYbTRWwjLnbpVwO49FHB3vZzQF9smOBCADIE9UPNVBNL1FmjMg9OReFcbMO2Aw2CG0F0DCLTwudDazsMd4Y83YqOJvy0WDBblcC-Qz70LuVtKr79TEErwJ3oaG49-8t72f-NmwMmrgXkpVn9LYA-k6Et456LoTjh51nHLJ_k6e6cCa7GxEciymdAdd3x6ySAl6wMKJLI-ycgrDBbDgqfRjS0uvWAU7FY4oqL89NmZGIyUOGZnDSNo8S48Z2NsGE8Ge-NW5sgnTxEAT9mJgGwvVT-O67qRVn72crSVs6eh3xZtadNv0a-y6izGnkG9usEtOREd96akpv9Pfo2o_lw50Hue-SjR1AElftNdeX7A9it0ESSE22sFfytdWdbfQL1PkD_VlAIE-4aFJETEJKDt08Ekx2ANRZZ3uZsIsy2pW7tMiP4lFal_Fc3ew2JRLCLz6bjeW3G9qe4liMwfw4tTI031Rc0WUmLrC0g5Z-B6L7BVgw8iDcJjyIZ0yh1Y_aZUuf08RstNqsbNqhwkO2C-tKPIpBayaLLCvskuTs5nDKSNXW4nnlf2tjs60jtjjbIzYLlCpQ4JyTRHrK5--lIgl5pKExkEG6oPqHyDYpTO6s9uV2C-aU1Ta7hsoE",
+    "expiryDateTime": "Mon Oct 11 2021 03:17:40 GMT+0000 (Coordinated Universal Time)",
+    "description": ""  },
+  {
+    "url": "/Member-portal/OnboardingElop?user=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjdiMTNiZGJiLTYzMjgtZWMxMS1iNmU1LTAwMjI0ODA5MDZjYyxESVYtQ0xWLTEwMDA4IiwiRXhwaXJ5RHVyYXRpb25pbkRheXMiOjEsImlhdCI6MTYzMzkyMjI5MywiZXhwIjoxNjM0MDA4NjkzMDI5fQ.iev5b3mcOJ0NClORvMwu4idzlG4sj2oQIABfMgHzQMhFCpm0s8XhpctNnaOQmFaCjD2_IO_ydo1J_5BeQDuTzmGzipGsboZQ0PblYujCx0xFH0DMlsBQ9OHaIQsZey9jP8zm-kgRRBCofqedLJLBussFBNJpYY8eGn2-I0OrP_9E5k1l-4r-f59m2Cod311f1cCjFCDqbAucXR4GuravA0qy659DHp0fry-oYwLP7hWFKoooIFPG7wuuWeY_Dl6TghQFqi1KENx7BFo3AUT5XnJ5xEGsLva9h4XSfP-MhPHGrkrLm0W50yIzDyYKnKHJ7Abfm30feLSABx7Ibgo4ZyqPzaC88de9EHa_UfbHA7PbRhPiM-EnYaKwSwpNyhZepJCq8hYhXolp94-h4mJaIu2x3ju8y7nrY_FNzxIYhPkuYXCuAqHGMzzT8zd6Olm2m09Oj2cdiOY9pXFvXMIwChu9KMJ7rko2GSUonx8j2-4oKnnikv392FLnmyDW0rMW6w4sPeMf5All8Ceg9LJu-HHJ4ZVZPAR5Q87Wa9HExlvFDfV8r4or4UTMNi--Y8J6Mpa1t1cGupCGsnxAwh_VFQRwp1ydY9GWJxqfO0SK11wzaSjUV8KwzaS5YaMdm_GdJbzhoQo27hT5kzcXN5Bper3LIS5rg25WmFgWjNsBrDo",
+    "expiryDateTime": "Mon Oct 11 2021 03:18:13 GMT+0000 (Coordinated Universal Time)",
+    "description": "testing testing\ntset stets"  }
+],
   "Getelopforunauthenticateduser":{
   "elopTemplateId": "42cef7c2-0a6b-474c-967c-9ae37a0bbb1b",
   "isBroadlineEnabled": true,
