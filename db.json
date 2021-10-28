@@ -209,6 +209,7 @@
   "businessChannelName": "Hospitality",
   "businessChannelId": "2762236e-4dfb-47f5-9ddd-292684c814a5",
   "isLocationAdditionAllowed": true,
+    "isUnauthenticatedUser": true,
   "clvNumber": "CLV-10008"}
 
 }
