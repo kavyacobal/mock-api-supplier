@@ -53,7 +53,7 @@
       "status": "open",
       "locationsAdded": 0,
       "progamsEnrolled": 4,
-      "requestedDate": "2021-06-30",
+      "requestedDate": null,
       "requestType":null,
       "isReadOnly": false
     }
